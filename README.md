@@ -8,6 +8,7 @@ iSpan 資展國際，跨域Java軟體工程師就業養成班 楊凱宇
 網站畫面使用此作者的資源作為[前端模板](https://github.com/technext/travelista/tree/master)，感謝作者提供開源的模板。
 小組專案以 Spring boot 開發網頁程式，使用預設的 Tomcat 作為 Web 伺服器；
 使用了 Spring Data JPA 來進行資料庫操作，以及 Thymeleaf 作為模板引擎來渲染動態頁面；
+遵循了 MVC 架構完成專案，使用 RESTFul API 標準進行資料交換；
 資料庫方面，使用 MAMP 搭建的 MySQL 資料庫。
 
 我負責的功能有
